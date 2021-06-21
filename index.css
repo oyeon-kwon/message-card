@@ -3,9 +3,8 @@ body {
 }
 
 #start_page {
-    display: none;
     padding-top: 8%;
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
 }
 
@@ -143,7 +142,7 @@ body {
 }
 
 #result_1 {
-    /* display: none; */
+    display: none;
     color: #1F9AE0;
     text-align: center;
     margin: 50px auto;
